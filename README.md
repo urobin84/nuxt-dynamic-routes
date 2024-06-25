@@ -88,3 +88,4 @@ nuxt-dynamic-route
             ├── /carts
             └── /todos
 ```
+data source from https://dummyjson.com
